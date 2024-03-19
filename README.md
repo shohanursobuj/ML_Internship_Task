@@ -1,4 +1,4 @@
-# Exercise 01 - Average Relative Humidity Calculation
+# Exercise 01
 
 ---
 
