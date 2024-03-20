@@ -1,4 +1,8 @@
-# Please replace 0.0 below with your answer (number only) to Exercise 01.
-0.0
+# Please replace 0.0 below with your answer to Exercise 01.
+relative_humidity=0.0
+temperature_average=0.0
+wind_speed=0.0
+precipitation_amount=0.0
+pressure_verage=0.0
 
 # Please do not write anything else into this file.
